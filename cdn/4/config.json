@@ -1,0 +1,6244 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_13",
+        "SMALL": "layout_4",
+        "MEDIUM": "layout_8"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "header": false,
+      "label": "Page",
+      "oneByOneEffect": {
+        "type": "FADE_IN",
+        "option": {
+          "direction": null,
+          "start": "AFTER_PREVIOUS",
+          "parentMode": "ONE_BY_ONE"
+        }
+      },
+      "footer": false,
+      "autoOpenDialogId": ""
+    }
+  },
+  "layouts": {
+    "layout_4": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0,
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_3",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_5": {
+      "type": "FIXED",
+      "content": {},
+      "order": [],
+      "label": "Premier"
+    },
+    "layout_7": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.00%",
+            "right": "0.00%",
+            "top": "0.00%",
+            "bottom": "0.00%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Second"
+    },
+    "layout_8": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0,
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_4",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_9": {
+      "type": "FIXED",
+      "content": {},
+      "order": [],
+      "label": "Premier"
+    },
+    "layout_11": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.00%",
+            "right": "0.00%",
+            "top": "0.00%",
+            "bottom": "0.00%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Second"
+    },
+    "layout_12": {
+      "type": "FIXED"
+    },
+    "layout_13": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "top": "0px",
+            "width": "39.072%",
+            "height": "60px",
+            "right": "0px"
+          },
+          "widgetId": "widget_8",
+          "setting": {
+            "autoProps": {
+              "width": "STRETCH"
+            },
+            "lockLayout": true
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "top": "60px",
+            "width": "78.1441%",
+            "height": "52.1173%",
+            "right": "0px",
+            "bottom": "0px"
+          },
+          "widgetId": "widget_19",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "lockLayout": true,
+            "effect": {
+              "SCROLL_IN": {
+                "type": "FADE_IN",
+                "option": {
+                  "direction": null
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "layout_14": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "top": "0.0%",
+            "width": "65px",
+            "height": "60px",
+            "right": "1215px",
+            "bottom": "0px"
+          },
+          "setting": {
+            "vCenter": false,
+            "autoProps": {
+              "top": true,
+              "bottom": false,
+              "left": false,
+              "right": true
+            },
+            "hCenter": false
+          },
+          "widgetId": "widget_9",
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "top": "11.9%",
+            "width": "291px",
+            "height": "42px",
+            "bottom": "11px",
+            "right": "989px"
+          },
+          "widgetId": "widget_10",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true,
+              "left": false,
+              "right": true
+            },
+            "lockLayout": false
+          },
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "211px",
+            "top": "33.4%",
+            "width": "656px",
+            "height": "32px",
+            "bottom": "8px",
+            "right": "413px"
+          },
+          "widgetId": "widget_11",
+          "setting": {
+            "hCenter": false,
+            "vCenter": false,
+            "autoProps": {
+              "top": true,
+              "bottom": false,
+              "left": false,
+              "right": true
+            },
+            "lockLayout": false
+          },
+          "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "77.3%",
+            "right": "3.5%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "19.2%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_12",
+          "isPending": false
+        }
+      },
+      "label": "Default"
+    },
+    "layout_15": {
+      "type": "FIXED",
+      "order": [
+        "4",
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_13"
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_18"
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "24px",
+            "right": "48px",
+            "top": "24px",
+            "bottom": "48px",
+            "width": "24px",
+            "height": "24px"
+          },
+          "widgetId": "widget_20"
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "106px",
+            "right": "506px",
+            "top": "0px",
+            "bottom": "60px",
+            "width": "400px",
+            "height": "60px"
+          },
+          "widgetId": "widget_21"
+        },
+        "4": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {}
+          },
+          "bbox": {
+            "left": "1px",
+            "right": "41px",
+            "top": "0px",
+            "bottom": "40px",
+            "width": "40px",
+            "height": "40px"
+          },
+          "widgetId": "widget_22"
+        }
+      },
+      "label": "Controller layout"
+    },
+    "layout_16": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "51.1%",
+            "right": "1.00%",
+            "top": "2.00%",
+            "bottom": "84.6%",
+            "width": "45.5%",
+            "height": "4.6%"
+          },
+          "widgetId": "widget_15",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true,
+              "width": "AUTO",
+              "height": "AUTO"
+            }
+          }
+        }
+      },
+      "label": "Map FixedLayout"
+    },
+    "layout_17": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true,
+              "width": "AUTO",
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": "52.5%",
+            "right": "1.00%",
+            "top": "2.00%",
+            "bottom": "71.6%",
+            "width": "31.5%",
+            "height": "7.7%"
+          },
+          "widgetId": "widget_16"
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Map FixedLayout"
+    },
+    "layout_18": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true,
+              "width": "AUTO",
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": "76.2%",
+            "right": "1.00%",
+            "top": "2.00%",
+            "bottom": "86.2%",
+            "width": "18.9%",
+            "height": "6.4%"
+          },
+          "widgetId": "widget_17"
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Map FixedLayout"
+    },
+    "layout_19": {
+      "type": "FIXED",
+      "order": [
+        "4",
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_13"
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_18"
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "24px",
+            "right": "48px",
+            "top": "24px",
+            "bottom": "48px",
+            "width": "24px",
+            "height": "24px"
+          },
+          "widgetId": "widget_20"
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "106px",
+            "right": "506px",
+            "top": "0px",
+            "bottom": "60px",
+            "width": "400px",
+            "height": "60px"
+          },
+          "widgetId": "widget_21"
+        },
+        "4": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {}
+          },
+          "bbox": {
+            "left": "1px",
+            "right": "41px",
+            "top": "0px",
+            "bottom": "40px",
+            "width": "40px",
+            "height": "40px"
+          },
+          "widgetId": "widget_22"
+        }
+      },
+      "label": "Controller layout"
+    },
+    "layout_20": {
+      "type": "FIXED",
+      "order": [
+        "4",
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_13"
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_18"
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "24px",
+            "right": "48px",
+            "top": "24px",
+            "bottom": "48px",
+            "width": "24px",
+            "height": "24px"
+          },
+          "widgetId": "widget_20"
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "106px",
+            "right": "506px",
+            "top": "0px",
+            "bottom": "60px",
+            "width": "400px",
+            "height": "60px"
+          },
+          "widgetId": "widget_21"
+        },
+        "4": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {}
+          },
+          "bbox": {
+            "left": "1px",
+            "right": "41px",
+            "top": "0px",
+            "bottom": "40px",
+            "width": "40px",
+            "height": "40px"
+          },
+          "widgetId": "widget_22"
+        }
+      },
+      "label": "Controller layout"
+    },
+    "layout_21": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_20",
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "bottom": 0,
+            "right": 0
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Open widget layout"
+    },
+    "layout_22": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "bottom": 0,
+            "right": 0
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Open widget layout"
+    },
+    "layout_23": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_13",
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "bottom": 0,
+            "right": 0
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Open widget layout"
+    },
+    "layout_24": {
+      "type": "FIXED",
+      "order": [
+        "1",
+        "2"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.9%",
+            "top": "7.2%",
+            "bottom": "30.0%",
+            "width": "326px",
+            "height": "464px"
+          },
+          "widgetId": "widget_23",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "92.8%",
+            "width": "100.0%",
+            "height": "7.2%"
+          },
+          "widgetId": "widget_24",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "label": "Premier"
+    },
+    "layout_34": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "top": "0px",
+            "width": "880px",
+            "height": "739px",
+            "right": "0px",
+            "bottom": "0px"
+          },
+          "widgetId": "widget_14",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "width": "STRETCH",
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "effect": {
+              "SCROLL_IN": {
+                "type": "FADE_IN",
+                "option": {
+                  "direction": null,
+                  "configType": "SLOW"
+                }
+              }
+            },
+            "lockParent": false,
+            "lockLayout": true
+          },
+          "isPending": false
+        }
+      },
+      "label": "Second"
+    },
+    "layout_35": {
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_36": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "sectionId": "section_1",
+          "type": "SECTION",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "hCenter": false,
+            "vCenter": false,
+            "effect": {
+              "SCROLL_IN": {
+                "type": "FADE_IN",
+                "option": {
+                  "direction": null
+                }
+              }
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_37": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_25",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "9.2%",
+            "right": "7.7%",
+            "top": "33.4%",
+            "bottom": "34.8%",
+            "width": "83.1%",
+            "height": "31.7%"
+          },
+          "widgetId": "widget_26",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_38": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_25",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "10.0%",
+            "top": "35.00%",
+            "bottom": "44.6%",
+            "width": "80.0%",
+            "height": "13.1%"
+          },
+          "widgetId": "widget_26",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": true
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_39": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_25",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "10.0%",
+            "top": "35.00%",
+            "bottom": "44.6%",
+            "width": "80.0%",
+            "height": "13.1%"
+          },
+          "widgetId": "widget_26",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": true
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_40": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_28",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "10.1%",
+            "right": "9.9%",
+            "top": "67.6%",
+            "bottom": "5.8%",
+            "width": "80.0%",
+            "height": "26.6%"
+          },
+          "widgetId": "widget_30",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false,
+              "height": "AUTO"
+            },
+            "hCenter": false,
+            "vCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "2"
+      ]
+    },
+    "layout_41": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_28",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "32.0%",
+            "top": "50.00%",
+            "bottom": "30.4%",
+            "width": "80.00%",
+            "height": "13.1%"
+          },
+          "widgetId": "widget_30",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "hCenter": true
+          }
+        }
+      },
+      "order": [
+        "0",
+        "2"
+      ]
+    },
+    "layout_42": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_28",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "32.0%",
+            "top": "50.00%",
+            "bottom": "30.4%",
+            "width": "80.00%",
+            "height": "13.1%"
+          },
+          "widgetId": "widget_30",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "hCenter": true
+          }
+        }
+      },
+      "order": [
+        "0",
+        "2"
+      ]
+    },
+    "layout_46": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_34",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "10.6%",
+            "right": "10.6%",
+            "top": "66.0%",
+            "bottom": "0.0%",
+            "width": "78.8%",
+            "height": "34.0%"
+          },
+          "widgetId": "widget_36",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false,
+              "height": "AUTO"
+            },
+            "hCenter": false,
+            "vCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "2"
+      ]
+    },
+    "layout_47": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_34",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "32.0%",
+            "top": "50.00%",
+            "bottom": "30.4%",
+            "width": "80.00%",
+            "height": "13.1%"
+          },
+          "widgetId": "widget_36",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "hCenter": true
+          }
+        }
+      },
+      "order": [
+        "0",
+        "2"
+      ]
+    },
+    "layout_48": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_34",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "32.0%",
+            "top": "50.00%",
+            "bottom": "30.4%",
+            "width": "80.00%",
+            "height": "13.1%"
+          },
+          "widgetId": "widget_36",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "hCenter": true
+          }
+        }
+      },
+      "order": [
+        "0",
+        "2"
+      ]
+    },
+    "layout_49": {
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "content": {
+        "0": {
+          "sectionId": "section_1",
+          "type": "SECTION",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "hCenter": false,
+            "vCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_50": {
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "content": {
+        "0": {
+          "sectionId": "section_1",
+          "type": "SECTION",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "hCenter": false,
+            "vCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_51": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_37",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "10.6%",
+            "right": "10.6%",
+            "top": "66.0%",
+            "bottom": "0.0%",
+            "width": "78.8%",
+            "height": "34.0%"
+          },
+          "widgetId": "widget_38",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false,
+              "height": "AUTO"
+            },
+            "hCenter": false,
+            "vCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "2"
+      ]
+    },
+    "layout_52": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_37",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "32.0%",
+            "top": "50.00%",
+            "bottom": "30.4%",
+            "width": "80.00%",
+            "height": "13.1%"
+          },
+          "widgetId": "widget_38",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "hCenter": true
+          }
+        }
+      },
+      "order": [
+        "0",
+        "2"
+      ]
+    },
+    "layout_53": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_37",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "32.0%",
+            "top": "50.00%",
+            "bottom": "30.4%",
+            "width": "80.00%",
+            "height": "13.1%"
+          },
+          "widgetId": "widget_38",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "hCenter": true
+          }
+        }
+      },
+      "order": [
+        "0",
+        "2"
+      ]
+    },
+    "layout_54": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "width": "CUSTOM"
+            },
+            "lockParent": false,
+            "heightMode": "ratio",
+            "aspectRatio": 1,
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "6.00%",
+            "top": "11.50%",
+            "width": "36.00px",
+            "height": "36.00px",
+            "right": 305,
+            "bottom": "65.8960%"
+          },
+          "widgetId": "widget_41",
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "bottom": true,
+              "top": false,
+              "width": "CUSTOM"
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": false
+          },
+          "bbox": {
+            "left": "20.00%",
+            "top": "12.00%",
+            "width": "254px",
+            "height": "30px",
+            "right": 30,
+            "bottom": "61.6541%"
+          },
+          "widgetId": "widget_42",
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "bottom": true,
+              "top": false,
+              "width": "STRETCH",
+              "height": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "order": 0,
+            "lockParent": false,
+            "lockLayout": false
+          },
+          "bbox": {
+            "left": "20.00%",
+            "top": "33.00%",
+            "width": "70.8333%",
+            "height": "45.7143%",
+            "right": "8.60%",
+            "bottom": "37px"
+          },
+          "widgetId": "widget_43",
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    }
+  },
+  "exbVersion": "1.11.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/ink/",
+  "forBuilderAttributes": {
+    "lockLayout": false,
+    "viewPortSize": {
+      "LARGE": {
+        "width": 1280,
+        "height": 1024
+      }
+    }
+  },
+  "template": "pocket",
+  "widgets": {
+    "widget_3": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.11.0",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "300px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": false,
+          "icon": "DOWN",
+          "offsetX": 0,
+          "offsetY": -15,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 60,
+          "height": 15,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "#FFFFFF"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary-700)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 92px 0 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 92px 0 0"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_3",
+      "layouts": {
+        "FIRST": {
+          "SMALL": "layout_5"
+        },
+        "SECOND": {
+          "SMALL": "layout_7"
+        }
+      },
+      "label": "Barre latérale 2"
+    },
+    "widget_4": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.11.0",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "300px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": false,
+          "icon": "DOWN",
+          "offsetX": 0,
+          "offsetY": -15,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 60,
+          "height": 15,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "#FFFFFF"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary-700)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 92px 0 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 92px 0 0"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_4",
+      "layouts": {
+        "FIRST": {
+          "MEDIUM": "layout_9"
+        },
+        "SECOND": {
+          "MEDIUM": "layout_11"
+        }
+      },
+      "label": "Barre latérale 3"
+    },
+    "widget_8": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.11.0",
+      "label": "Volet fixe",
+      "config": {},
+      "id": "widget_8",
+      "style": {
+        "background": {
+          "image": {
+            "url": ""
+          },
+          "color": "var(--primary-600)"
+        },
+        "boxShadow": {
+          "offsetX": {
+            "distance": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "distance": 2,
+            "unit": "px"
+          },
+          "blur": {
+            "distance": 4,
+            "unit": "px"
+          },
+          "spread": {
+            "distance": 0,
+            "unit": "px"
+          },
+          "color": "rgba(0,0,0,0.5)"
+        }
+      },
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_14"
+        }
+      }
+    },
+    "widget_9": {
+      "uri": "widgets/common/image/",
+      "version": "1.11.0",
+      "label": "Image",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "https://www.insat.rnu.tn/upload/1618567270.png",
+            "expression": null
+          },
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_9/1682455398455.png",
+            "originalUrl": "${appResourceUrl}/images/widget_9/1682455398455.png",
+            "fileName": "1682455398455.png",
+            "originalName": "1618567270.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1682455398455",
+            "isUseCompress": false,
+            "originalWidth": 66,
+            "originalHeight": 66,
+            "cropParam": {
+              "svgViewBox": "0 0 16 16",
+              "svgPath": "M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Z",
+              "cropShape": "circle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_9",
+      "useDataSourcesEnabled": false,
+      "useDataSources": [],
+      "style": {
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fill"
+        }
+      }
+    },
+    "widget_10": {
+      "uri": "widgets/common/text/",
+      "version": "1.11.0",
+      "label": "Texte",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 30px; background-color: rgba(0, 0, 0, 0); text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px; color: var(--light);\">INSAT <span class=\"ql-cursor\">﻿</span></span></p>",
+        "style": {
+          "verticalAlign": "center",
+          "wrap": true,
+          "overflow": "scroll",
+          "padding": "p-1"
+        },
+        "tooltip": {
+          "name": "Logo Officiel",
+          "parts": [
+            {
+              "type": "STRING",
+              "exp": "\"Logo Officiel\""
+            }
+          ]
+        }
+      },
+      "id": "widget_10",
+      "useDataSourcesEnabled": false
+    },
+    "widget_11": {
+      "uri": "widgets/common/text/",
+      "version": "1.11.0",
+      "label": "Texte 2",
+      "config": {
+        "text": "<p><span style=\"color: var(--light); font-size: 16px;\">﻿Carte Virtuelle Interactive de l'Institut National des Sciences Appliquées et Technologies </span></p>",
+        "style": {
+          "verticalAlign": "center",
+          "wrap": true,
+          "overflow": "scroll",
+          "padding": "p-1"
+        }
+      },
+      "id": "widget_11"
+    },
+    "widget_12": {
+      "uri": "widgets/common/controller/",
+      "version": "1.11.0",
+      "label": "Contrôleur de widget",
+      "config": {
+        "behavior": {
+          "onlyOpenOne": false,
+          "displayType": "SIDEBYSIDE",
+          "vertical": false,
+          "size": {},
+          "openStarts": []
+        },
+        "appearance": {
+          "space": 0,
+          "advanced": true,
+          "card": {
+            "showLabel": true,
+            "labelGrowth": 100,
+            "avatar": {
+              "type": "primary",
+              "size": "sm",
+              "shape": "rectangle"
+            },
+            "showTooltip": true,
+            "variant": {
+              "default": {
+                "color": "var(--light)",
+                "bg": "var(--primary)",
+                "border": {
+                  "color": "#484848",
+                  "width": "1px"
+                }
+              },
+              "hover": {
+                "bg": "var(--dark-600)"
+              },
+              "active": {
+                "bg": "#3d3d3d",
+                "color": "#080808"
+              },
+              "disabled": {
+                "color": "#8b8b8b",
+                "bg": "#e3e3e3",
+                "border": {
+                  "color": "#e3e3e3"
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_12",
+      "layouts": {
+        "controller": {
+          "LARGE": "layout_15",
+          "SMALL": "layout_19",
+          "MEDIUM": "layout_20"
+        },
+        "_openwidget": {
+          "LARGE": "layout_21",
+          "SMALL": "layout_22",
+          "MEDIUM": "layout_23"
+        }
+      }
+    },
+    "widget_13": {
+      "uri": "widgets/arcgis/map-layers/",
+      "version": "1.11.0",
+      "label": "Couches cartographiques",
+      "config": {
+        "useMapWidget": true,
+        "goto": true,
+        "label": true,
+        "opacity": true,
+        "information": true,
+        "setVisibility": true,
+        "customizeLayerOptions": {
+          "widget_14-dataSource_1": {
+            "isEnabled": true,
+            "hiddenJimuLayerViewIds": []
+          }
+        },
+        "selectedJimuLayerIds": [
+          "widget_14-dataSource_1-amenity_polygons_geojson_7412",
+          "widget_14-dataSource_1-roads_geojson_7",
+          "widget_14-dataSource_1-amenity_points_geojson_3547",
+          "widget_14-dataSource_1-buildings_geojson_5009",
+          "widget_14-dataSource_1-landcover_geojson_1541",
+          "widget_14-dataSource_1-roads_geojson_1823"
+        ]
+      },
+      "id": "widget_13",
+      "useMapWidgetIds": [
+        "widget_14"
+      ]
+    },
+    "widget_14": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.11.0",
+      "label": "Carte",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true,
+          "canLocate": true,
+          "canCompass": true,
+          "canLayers": true,
+          "canBaseMap": true,
+          "canMeasure": true,
+          "canFullScreen": true,
+          "canScaleBar": true,
+          "canSelect": true,
+          "canSelectState": true
+        },
+        "isUseCustomMapState": true,
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 4513.9887055,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": 1135126.1775173226,
+              "y": 4417245.190800402
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": 1134677.707140419,
+            "ymin": 4417006.922251289,
+            "xmax": 1135574.6478942262,
+            "ymax": 4417483.459349516
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "layoutIndex": 0,
+        "initialMapDataSourceID": "dataSource_1",
+        "selectionHighlightColor": "#00FFFF",
+        "selectionHighlightHaloColor": "#00FFFF",
+        "disablePopUp": false
+      },
+      "id": "widget_14",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_16",
+          "SMALL": "layout_17",
+          "MEDIUM": "layout_18"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ],
+      "style": {
+        "borderRadius": null,
+        "border": {
+          "color": "var(--light-300)",
+          "type": "solid",
+          "width": "2px"
+        }
+      }
+    },
+    "widget_15": {
+      "uri": "widgets/common/search/",
+      "version": "1.11.0",
+      "label": "Rechercher 4",
+      "config": {
+        "searchResultView": "Result_Panel",
+        "arrangementStyle": "Style1",
+        "maxSuggestions": 6,
+        "recentSearchesMaxNumber": 6,
+        "resultMaxNumber": 6,
+        "datasourceConfig": [
+          {
+            "configId": "config_0",
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m1.373 8 2.07-2.071.83.828L2.2 8.828a3.515 3.515 0 0 0 4.97 4.971l2.072-2.071.828.828L8 14.627A4.686 4.686 0 1 1 1.373 8ZM13.799 7.172l-2.071 2.07.828.83L14.627 8A4.686 4.686 0 1 0 8 1.373l-2.071 2.07.828.83L8.828 2.2a3.515 3.515 0 0 1 4.971 4.97Z\" fill=\"#000\"></path><path d=\"M5.515 9.657a.586.586 0 0 0 .828.828l4.142-4.142a.586.586 0 0 0-.828-.828L5.515 9.657Z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "filename": "link",
+                "originalName": "outlined/data/link-tilted.svg",
+                "path": [
+                  "general",
+                  "link"
+                ],
+                "inlineSvg": true
+              }
+            },
+            "label": "Routes",
+            "displayLabel": true,
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-roads_geojson_7",
+              "mainDataSourceId": "dataSource_1-roads_geojson_7",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "name"
+              ]
+            },
+            "displayFields": [
+              {
+                "jimuName": "name",
+                "name": "name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "name",
+                "format": null
+              }
+            ],
+            "searchFields": [
+              {
+                "jimuName": "name",
+                "name": "name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "name",
+                "format": null
+              }
+            ],
+            "hint": "",
+            "searchServiceType": "FeatureService",
+            "searchExact": false
+          },
+          {
+            "configId": "config_1",
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208 8 1 .71 6.208a.5.5 0 1 0 .58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 0 0 .58-.813ZM13 5.8 8 2.229 3 5.8V14h3v-4h4v4h3V5.8ZM9 14H7v-3h2v3Z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "filename": "home",
+                "originalName": "outlined/application/home.svg",
+                "path": [
+                  "general",
+                  "home"
+                ],
+                "inlineSvg": true
+              }
+            },
+            "label": "Batiments",
+            "displayLabel": true,
+            "useDataSource": {
+              "dataSourceId": "dataSource_6",
+              "mainDataSourceId": "dataSource_6",
+              "fields": [
+                "name"
+              ]
+            },
+            "displayFields": [
+              {
+                "jimuName": "name",
+                "name": "name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "name",
+                "format": null
+              }
+            ],
+            "searchFields": [
+              {
+                "jimuName": "name",
+                "name": "name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "name",
+                "format": null
+              }
+            ],
+            "hint": "",
+            "searchServiceType": "FeatureService",
+            "searchExact": false
+          },
+          {
+            "configId": "config_2",
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m8 .5 2.373 5.07L16 6.23l-4.16 3.792 1.104 5.478L8 12.773 3.056 15.5l1.102-5.478L0 6.229l5.625-.66L8 .5Z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "filename": "star",
+                "originalName": "filled/application/star.svg",
+                "path": [
+                  "general",
+                  "star"
+                ],
+                "inlineSvg": true
+              }
+            },
+            "label": "Lieux d'Interets",
+            "displayLabel": true,
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-amenity_points_geojson_3547",
+              "mainDataSourceId": "dataSource_1-amenity_points_geojson_3547",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "name"
+              ]
+            },
+            "displayFields": [
+              {
+                "jimuName": "name",
+                "name": "name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "name",
+                "format": null
+              }
+            ],
+            "searchFields": [
+              {
+                "jimuName": "name",
+                "name": "name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "name",
+                "format": null
+              }
+            ],
+            "hint": "",
+            "searchServiceType": "FeatureService"
+          },
+          {
+            "configId": "config_3",
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 5.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2ZM6.5 7.5A.5.5 0 0 1 7 7h1.5v4.5h1a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1h1V8H7a.5.5 0 0 1-.5-.5Z\" fill=\"#000\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16Zm0-1A7 7 0 1 0 8 1a7 7 0 0 0 0 14Z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "filename": "info",
+                "originalName": "outlined/suggested/info.svg",
+                "path": [
+                  "general",
+                  "info"
+                ],
+                "inlineSvg": true
+              }
+            },
+            "label": "Services",
+            "displayLabel": true,
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-amenity_polygons_geojson_7412",
+              "mainDataSourceId": "dataSource_1-amenity_polygons_geojson_7412",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "name"
+              ]
+            },
+            "displayFields": [
+              {
+                "jimuName": "name",
+                "name": "name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "name",
+                "format": null
+              }
+            ],
+            "searchFields": [
+              {
+                "jimuName": "name",
+                "name": "name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "name",
+                "format": null
+              }
+            ],
+            "hint": "",
+            "searchServiceType": "FeatureService"
+          },
+          {
+            "configId": "config_4",
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m8.745 8 6.1 6.1a.527.527 0 1 1-.745.746L8 8.746l-6.1 6.1a.527.527 0 1 1-.746-.746l6.1-6.1-6.1-6.1a.527.527 0 0 1 .746-.746l6.1 6.1 6.1-6.1a.527.527 0 0 1 .746.746L8.746 8Z\" fill=\"#000\"></path></svg>",
+              "properties": {
+                "filename": "close",
+                "originalName": "outlined/editor/close.svg",
+                "path": [
+                  "general",
+                  "close"
+                ],
+                "inlineSvg": true
+              }
+            },
+            "label": "Revetement",
+            "displayLabel": true,
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-landcover_geojson_1541",
+              "mainDataSourceId": "dataSource_1-landcover_geojson_1541",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "name"
+              ]
+            },
+            "displayFields": [
+              {
+                "jimuName": "name",
+                "name": "name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "name",
+                "format": null
+              }
+            ],
+            "searchFields": [
+              {
+                "jimuName": "name",
+                "name": "name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "name",
+                "format": null
+              }
+            ],
+            "hint": "",
+            "searchServiceType": "FeatureService"
+          }
+        ],
+        "hint": "Rechercher parmi les Routes, Batiments, Lieux d'Interets et Services",
+        "isUseCurrentLoation": true,
+        "isShowRecentSearches": true,
+        "isAutoSelectFirstResult": false
+      },
+      "id": "widget_15",
+      "outputDataSources": [],
+      "useUtilities": [],
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-roads_geojson_7",
+          "mainDataSourceId": "dataSource_1-roads_geojson_7",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "dataSourceId": "dataSource_6",
+          "mainDataSourceId": "dataSource_6",
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "dataSourceId": "dataSource_1-amenity_points_geojson_3547",
+          "mainDataSourceId": "dataSource_1-amenity_points_geojson_3547",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "dataSourceId": "dataSource_1-amenity_polygons_geojson_7412",
+          "mainDataSourceId": "dataSource_1-amenity_polygons_geojson_7412",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "name"
+          ]
+        },
+        {
+          "dataSourceId": "dataSource_1-landcover_geojson_1541",
+          "mainDataSourceId": "dataSource_1-landcover_geojson_1541",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "name"
+          ]
+        }
+      ]
+    },
+    "widget_16": {
+      "uri": "widgets/common/search/",
+      "version": "1.11.0",
+      "label": "Rechercher 5",
+      "config": {
+        "searchResultView": "Result_Panel",
+        "arrangementStyle": "Style1",
+        "maxSuggestions": 6,
+        "recentSearchesMaxNumber": 6,
+        "resultMaxNumber": 6
+      },
+      "id": "widget_16"
+    },
+    "widget_17": {
+      "uri": "widgets/common/search/",
+      "version": "1.11.0",
+      "label": "Rechercher 6",
+      "config": {
+        "searchResultView": "Result_Panel",
+        "arrangementStyle": "Style1",
+        "maxSuggestions": 6,
+        "recentSearchesMaxNumber": 6,
+        "resultMaxNumber": 6
+      },
+      "id": "widget_17"
+    },
+    "widget_18": {
+      "uri": "widgets/arcgis/legend/",
+      "version": "1.11.0",
+      "label": "Légende",
+      "config": {},
+      "id": "widget_18",
+      "useMapWidgetIds": [
+        "widget_14"
+      ]
+    },
+    "widget_19": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.11.0",
+      "label": "Barre latérale 4",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "FIRST",
+        "overlay": false,
+        "size": "329px",
+        "divider": {
+          "visible": true
+        },
+        "resizable": false,
+        "toggleBtn": {
+          "visible": true,
+          "icon": "LEFT",
+          "offsetX": 15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": true,
+                "color": "var(--dark-800)"
+              },
+              "bg": {
+                "useTheme": false,
+                "color": "var(--primary)",
+                "opacity": 0.6
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": false,
+                "color": "var(--primary)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          },
+          "template": "default",
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "defaultState": 0,
+        "firstPanelStyle": {
+          "background": {
+            "color": "var(--primary)",
+            "fillType": "fill",
+            "image": {
+              "url": ""
+            }
+          }
+        }
+      },
+      "id": "widget_19",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_24"
+        },
+        "SECOND": {
+          "LARGE": "layout_34"
+        }
+      }
+    },
+    "widget_20": {
+      "uri": "widgets/common/share/",
+      "version": "1.11.0",
+      "label": "Partager",
+      "config": {
+        "uiMode": "POPUP",
+        "popup": {
+          "icon": "",
+          "items": [
+            {
+              "id": "embed",
+              "enable": true
+            },
+            {
+              "id": "qrcode",
+              "enable": true
+            },
+            {
+              "id": "email",
+              "enable": true
+            },
+            {
+              "id": "facebook",
+              "enable": true
+            },
+            {
+              "id": "twitter",
+              "enable": true
+            },
+            {
+              "id": "pinterest",
+              "enable": true
+            },
+            {
+              "id": "linkedin",
+              "enable": true
+            }
+          ],
+          "tooltip": ""
+        },
+        "inline": {
+          "items": [
+            {
+              "id": "facebook",
+              "enable": true
+            },
+            {
+              "id": "twitter",
+              "enable": true
+            },
+            {
+              "id": "pinterest",
+              "enable": true
+            },
+            {
+              "id": "linkedin",
+              "enable": true
+            },
+            {
+              "id": "embed",
+              "enable": true
+            },
+            {
+              "id": "qrcode",
+              "enable": true
+            },
+            {
+              "id": "email",
+              "enable": true
+            },
+            {
+              "id": "sharelink",
+              "enable": true
+            }
+          ],
+          "design": {
+            "direction": "HORIZONTAL",
+            "hideLabel": false,
+            "btnRad": 0,
+            "btnColor": "",
+            "iconColor": "",
+            "size": "default"
+          }
+        }
+      },
+      "id": "widget_20"
+    },
+    "widget_21": {
+      "uri": "widgets/arcgis/directions/",
+      "version": "1.11.0",
+      "label": "Feuille de route",
+      "config": {
+        "routeConfig": {
+          "useUtility": {
+            "utilityId": "utility_1"
+          }
+        },
+        "searchConfig": {
+          "dataConfig": [
+            {
+              "configId": "config_0",
+              "icon": null,
+              "label": "ArcGIS World Geocoding Service",
+              "useUtility": {
+                "utilityId": "utility_2"
+              },
+              "searchServiceType": "GeocodeService",
+              "singleLineFieldName": "SingleLine",
+              "isSupportSuggest": true
+            }
+          ],
+          "suggestionConfig": {
+            "maxSuggestions": 6,
+            "isUseCurrentLoation": true
+          }
+        }
+      },
+      "id": "widget_21",
+      "outputDataSources": [
+        "widget_21_output_stop",
+        "widget_21_output_direction_point",
+        "widget_21_output_direction_line",
+        "widget_21_output_route"
+      ],
+      "useMapWidgetIds": [
+        "widget_14"
+      ],
+      "useUtilities": [
+        {
+          "utilityId": "utility_1"
+        },
+        {
+          "utilityId": "utility_2"
+        }
+      ]
+    },
+    "widget_22": {
+      "uri": "widgets/common/print/",
+      "version": "1.11.0",
+      "label": "Imprimer",
+      "config": {
+        "printServiceType": "CUSTOMIZE",
+        "printTemplateType": "CUSTOMIZE",
+        "modeType": "COMPACT",
+        "commonSetting": {
+          "scalePreserved": false,
+          "layoutOptions": {
+            "titleText": "ArcGIS Web Map"
+          },
+          "outScale": 36978595.474472,
+          "exportOptions": {
+            "dpi": 96
+          },
+          "printExtentType": "CURRENT MAP EXTENT",
+          "forceFeatureAttributes": false,
+          "wkid": 102100,
+          "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+          "enableTitle": true,
+          "enableMapPrintExtents": true,
+          "enableOutputSpatialReference": false,
+          "enableQuality": true,
+          "enableFeatureAttribution": true
+        },
+        "hasInitBorder": true,
+        "printCustomTemplate": [
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": null,
+              "customTextElements": [],
+              "elementOverrides": {
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": false
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": 102100,
+            "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "A3 Landscape",
+            "layout": "A3 Landscape",
+            "format": "png32",
+            "templateId": "config_custom_0",
+            "mapFrameSize": [
+              40,
+              21.17
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "selectedFormatList": [
+              "png32"
+            ],
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": null,
+              "customTextElements": [],
+              "elementOverrides": {
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": false
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": 102100,
+            "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "A3 Portrait",
+            "layout": "A3 Portrait",
+            "format": "png32",
+            "templateId": "config_custom_1",
+            "mapFrameSize": [
+              27.68,
+              33.45
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "selectedFormatList": [
+              "png32"
+            ],
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": null,
+              "customTextElements": [],
+              "elementOverrides": {
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": false
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": 102100,
+            "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "A4 Landscape",
+            "layout": "A4 Landscape",
+            "format": "png32",
+            "templateId": "config_custom_2",
+            "mapFrameSize": [
+              27.76,
+              15.92
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "selectedFormatList": [
+              "png32"
+            ],
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": null,
+              "customTextElements": [],
+              "elementOverrides": {
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": false
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": 102100,
+            "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "A4 Portrait",
+            "layout": "A4 Portrait",
+            "format": "png32",
+            "templateId": "config_custom_3",
+            "mapFrameSize": [
+              19.02,
+              22.28
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "selectedFormatList": [
+              "png32"
+            ],
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": null,
+              "customTextElements": [],
+              "elementOverrides": {
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": false
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": 102100,
+            "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "Letter ANSI A Landscape",
+            "layout": "Letter ANSI A Landscape",
+            "format": "png32",
+            "templateId": "config_custom_4",
+            "mapFrameSize": [
+              10,
+              6.25
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "selectedFormatList": [
+              "png32"
+            ],
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": null,
+              "customTextElements": [],
+              "elementOverrides": {
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": false
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": 102100,
+            "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "Letter ANSI A Portrait",
+            "layout": "Letter ANSI A Portrait",
+            "format": "png32",
+            "templateId": "config_custom_5",
+            "mapFrameSize": [
+              7.5,
+              8
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "selectedFormatList": [
+              "png32"
+            ],
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": null,
+              "customTextElements": [],
+              "elementOverrides": {
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": false
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": 102100,
+            "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "Tabloid ANSI B Landscape",
+            "layout": "Tabloid ANSI B Landscape",
+            "format": "png32",
+            "templateId": "config_custom_6",
+            "mapFrameSize": [
+              16,
+              7.76
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "selectedFormatList": [
+              "png32"
+            ],
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": null,
+              "customTextElements": [],
+              "elementOverrides": {
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": false
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": 102100,
+            "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "Tabloid ANSI B Portrait",
+            "layout": "Tabloid ANSI B Portrait",
+            "format": "png32",
+            "templateId": "config_custom_7",
+            "mapFrameSize": [
+              10,
+              13.61
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": false,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "selectedFormatList": [
+              "png32"
+            ],
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "scalebarUnit": "Miles",
+              "legendLayers": null,
+              "customTextElements": [],
+              "elementOverrides": {}
+            },
+            "exportOptions": {
+              "dpi": 96,
+              "width": 800,
+              "height": 1100
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": 102100,
+            "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "MAP_ONLY",
+            "layout": "MAP_ONLY",
+            "format": "png32",
+            "templateId": "config_custom_8",
+            "selectedFormatList": [
+              "png32"
+            ],
+            "customTextElementEnableList": [],
+            "enableNorthArrow": false
+          }
+        ],
+        "useUtility": {
+          "utilityId": "utility_3"
+        },
+        "formatList": [
+          "pdf",
+          "png32",
+          "png8",
+          "jpg",
+          "gif",
+          "eps",
+          "svg",
+          "svgz",
+          "aix",
+          "tiff"
+        ],
+        "defaultFormat": "pdf",
+        "layoutChoiceList": [
+          {
+            "label": "A3 Landscape",
+            "layout": "A3 Landscape",
+            "format": "PNG32",
+            "layoutOptions": {
+              "legend": false
+            },
+            "layoutTemplate": "A3 Landscape",
+            "mapFrameSize": [
+              40,
+              21.17
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true
+          },
+          {
+            "label": "A3 Portrait",
+            "layout": "A3 Portrait",
+            "format": "PNG32",
+            "layoutOptions": {
+              "legend": false
+            },
+            "layoutTemplate": "A3 Portrait",
+            "mapFrameSize": [
+              27.68,
+              33.45
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true
+          },
+          {
+            "label": "A4 Landscape",
+            "layout": "A4 Landscape",
+            "format": "PNG32",
+            "layoutOptions": {
+              "legend": false
+            },
+            "layoutTemplate": "A4 Landscape",
+            "mapFrameSize": [
+              27.76,
+              15.92
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true
+          },
+          {
+            "label": "A4 Portrait",
+            "layout": "A4 Portrait",
+            "format": "PNG32",
+            "layoutOptions": {
+              "legend": false
+            },
+            "layoutTemplate": "A4 Portrait",
+            "mapFrameSize": [
+              19.02,
+              22.28
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true
+          },
+          {
+            "label": "Letter ANSI A Landscape",
+            "layout": "Letter ANSI A Landscape",
+            "format": "PNG32",
+            "layoutOptions": {
+              "legend": false
+            },
+            "layoutTemplate": "Letter ANSI A Landscape",
+            "mapFrameSize": [
+              10,
+              6.25
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true
+          },
+          {
+            "label": "Letter ANSI A Portrait",
+            "layout": "Letter ANSI A Portrait",
+            "format": "PNG32",
+            "layoutOptions": {
+              "legend": false
+            },
+            "layoutTemplate": "Letter ANSI A Portrait",
+            "mapFrameSize": [
+              7.5,
+              8
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true
+          },
+          {
+            "label": "Tabloid ANSI B Landscape",
+            "layout": "Tabloid ANSI B Landscape",
+            "format": "PNG32",
+            "layoutOptions": {
+              "legend": false
+            },
+            "layoutTemplate": "Tabloid ANSI B Landscape",
+            "mapFrameSize": [
+              16,
+              7.76
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true
+          },
+          {
+            "label": "Tabloid ANSI B Portrait",
+            "layout": "Tabloid ANSI B Portrait",
+            "format": "PNG32",
+            "layoutOptions": {
+              "legend": false
+            },
+            "layoutTemplate": "Tabloid ANSI B Portrait",
+            "mapFrameSize": [
+              10,
+              13.61
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": false,
+            "hasLegend": true,
+            "hasTitleText": true
+          },
+          {
+            "label": "MAP_ONLY",
+            "layout": "MAP_ONLY",
+            "format": "PNG32",
+            "layoutTemplate": "MAP_ONLY"
+          }
+        ]
+      },
+      "id": "widget_22",
+      "style": {
+        "border": {
+          "color": "var(--light-400)",
+          "type": "solid",
+          "width": "1px"
+        },
+        "borderRadius": {
+          "number": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "unit": "px"
+        },
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fill"
+        },
+        "boxShadow": {
+          "presetStyle": "shadow-sm"
+        }
+      },
+      "useMapWidgetIds": [
+        "widget_14"
+      ],
+      "useUtilities": [
+        {
+          "utilityId": "utility_3"
+        }
+      ]
+    },
+    "widget_23": {
+      "uri": "widgets/arcgis/bookmark/",
+      "version": "1.11.0",
+      "label": "Géosignet",
+      "config": {
+        "templateType": "SLIDE3",
+        "isTemplateConfirm": true,
+        "isInitialed": true,
+        "bookmarks": [
+          {
+            "id": 2,
+            "name": "Zones Vertes",
+            "title": "Géosignet-2",
+            "description": "Partagez des moments agréables dans le Jardin de l'INSAT. Attention ! Gardez les alentours propres !",
+            "type": "2d",
+            "imgParam": {
+              "url": "${appResourceUrl}/images/widget_25/1682531485053.jpg",
+              "originalUrl": "${appResourceUrl}/images/widget_25/1682531485053.jpg",
+              "fileName": "1682531485053.jpg",
+              "originalName": "1522255568.jpg",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/jpeg",
+              "originalId": "1682531485053",
+              "isUseCompress": false,
+              "originalWidth": 720,
+              "originalHeight": 340
+            },
+            "snapParam": {
+              "fileName": "widget_23-snap2-1682534393556.jpg",
+              "originalName": "widget_23-snap2-1682534393556",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap2-1682534393556.jpg",
+              "type": "IMAGE",
+              "size": 22394,
+              "created": 1682534393559,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134916.9513016192,
+              "ymin": 4417105.773060911,
+              "xmax": 1135112.5226044848,
+              "ymax": 4417258.0499532195
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135014.736953052,
+                "y": 4417181.911507065
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1682581153462": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1682581153462": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 3,
+            "name": "Entrée",
+            "title": "Géosignet-3",
+            "description": "Entrée de L'INSAT. N'oubliez pas de dire bonjour aux conciecrges !",
+            "type": "2d",
+            "imgParam": {
+              "url": "${appResourceUrl}/images/widget_23/1682540072088.jpg",
+              "originalUrl": "${appResourceUrl}/images/widget_23/1682540072088.jpg",
+              "fileName": "1682540072088.jpg",
+              "originalName": "1280px-INSAT.jpg",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/jpeg",
+              "originalId": "1682540072088",
+              "isUseCompress": false,
+              "originalWidth": 1280,
+              "originalHeight": 960
+            },
+            "snapParam": {
+              "fileName": "widget_23-snap3-1682539549119.jpg",
+              "originalName": "widget_23-snap3-1682539549119",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap3-1682539549119.jpg",
+              "type": "IMAGE",
+              "size": 206190,
+              "created": 1682539549124,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1135071.1986495662,
+              "ymin": 4417163.1341762645,
+              "xmax": 1135266.7699524318,
+              "ymax": 4417315.411068573
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135168.984300999,
+                "y": 4417239.272622419
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1682581104277": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1682581104277": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 4,
+            "name": "Hall de l'INSAT",
+            "title": "Géosignet-4",
+            "description": "Premier Aperçu de l'Institut, vous y trouverez les tables de billards, le local de la CINE-RADIO, et les guichets pour dépot des dossiers d'Inscription \nAttendez les évènements annuels dans le Hall, Forum de Junior Entreprise\n",
+            "type": "2d",
+            "imgParam": {
+              "url": "${appResourceUrl}/images/widget_23/1682539954525.jpeg",
+              "originalUrl": "${appResourceUrl}/images/widget_23/1682539954525.jpeg",
+              "fileName": "1682539954525.jpeg",
+              "originalName": "images-_1_.jpeg",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/jpeg",
+              "originalId": "1682539954525",
+              "isUseCompress": false,
+              "originalWidth": 259,
+              "originalHeight": 194
+            },
+            "snapParam": {
+              "fileName": "widget_23-snap4-1682580516157.jpg",
+              "originalName": "widget_23-snap4-1682580516157",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap4-1682580516157.jpg",
+              "type": "IMAGE",
+              "size": 160801,
+              "created": 1682580516168,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1135049.638844636,
+              "ymin": 4417148.492550445,
+              "xmax": 1135248.1959689197,
+              "ymax": 4417303.158099887
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135148.9174067779,
+                "y": 4417225.825325166
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1682580484347": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1682580484347": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 5,
+            "name": "Toit",
+            "title": "Géosignet-5",
+            "description": "Vue de la globalité de l'Institut, N'oubliez pas de prendre des photos et faites attention !",
+            "type": "2d",
+            "imgParam": {
+              "url": "${appResourceUrl}/images/widget_23/1682539917411.jpeg",
+              "originalUrl": "${appResourceUrl}/images/widget_23/1682539917411.jpeg",
+              "fileName": "1682539917411.jpeg",
+              "originalName": "images.jpeg",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/jpeg",
+              "originalId": "1682539917411",
+              "isUseCompress": false,
+              "originalWidth": 300,
+              "originalHeight": 168
+            },
+            "snapParam": {
+              "fileName": "widget_23-snap5-1682581433549.jpg",
+              "originalName": "widget_23-snap5-1682581433549",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap5-1682581433549.jpg",
+              "type": "IMAGE",
+              "size": 74439,
+              "created": 1682581433552,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1135059.660179162,
+              "ymin": 4417195.543404359,
+              "xmax": 1135158.9387412597,
+              "ymax": 4417272.876179047
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 564.248588,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135109.2994602108,
+                "y": 4417234.209791703
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1682581410153": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1682581410153": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 6,
+            "name": "Jardin",
+            "title": "Géosignet-6",
+            "description": "Passez des moments agréables dans le Jardin ! ",
+            "type": "2d",
+            "imgParam": {
+              "url": "${appResourceUrl}/images/widget_23/1682539893463.jpeg",
+              "originalUrl": "${appResourceUrl}/images/widget_23/1682539893463.jpeg",
+              "fileName": "1682539893463.jpeg",
+              "originalName": "téléchargement-_2_.jpeg",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/jpeg",
+              "originalId": "1682539893463",
+              "isUseCompress": false,
+              "originalWidth": 303,
+              "originalHeight": 166
+            },
+            "snapParam": {
+              "fileName": "widget_23-snap6-1682581552444.jpg",
+              "originalName": "widget_23-snap6-1682581552444",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap6-1682581552444.jpg",
+              "type": "IMAGE",
+              "size": 109711,
+              "created": 1682581552446,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134957.038325165,
+              "ymin": 4417105.586959447,
+              "xmax": 1135155.5954494486,
+              "ymax": 4417260.252508889
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135056.3168873067,
+                "y": 4417182.919734168
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1682581527359": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1682581527359": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 7,
+            "name": "Administration",
+            "title": "Géosignet-7",
+            "description": "Accédez à l'administration à partir du hall, au 1er étage, vous trouverez : SERVICE SCOLARITE, BUREAU D'ORDRE, IMPRIMERIE, BUREAU DU DIRECTEUR, et la DIRECTION D'ETUDES",
+            "type": "2d",
+            "imgParam": {
+              "url": "${appResourceUrl}/images/widget_23/1682539885517.jpeg",
+              "originalUrl": "${appResourceUrl}/images/widget_23/1682539885517.jpeg",
+              "fileName": "1682539885517.jpeg",
+              "originalName": "téléchargement-_3_.jpeg",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/jpeg",
+              "originalId": "1682539885517",
+              "isUseCompress": false,
+              "originalWidth": 302,
+              "originalHeight": 167
+            },
+            "snapParam": {
+              "fileName": "widget_23-snap7-1682581936619.jpg",
+              "originalName": "widget_23-snap7-1682581936619",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap7-1682581936619.jpg",
+              "type": "IMAGE",
+              "size": 103757,
+              "created": 1682581936621,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134976.248218637,
+              "ymin": 4417057.979962299,
+              "xmax": 1135174.8053429206,
+              "ymax": 4417212.645511741
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135075.5267807788,
+                "y": 4417135.31273702
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1682581918591": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1682581918591": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 8,
+            "name": "Buvette",
+            "title": "Géosignet-8",
+            "description": "En retard ? Pas de soucis ! Prenez voter café à la buvette à des prix étudiés.",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_23-snap8-1682582337649.jpg",
+              "originalName": "widget_23-snap8-1682582337649",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap8-1682582337649.jpg",
+              "type": "IMAGE",
+              "size": 96777,
+              "created": 1682582337652,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "SNAPSHOT",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134936.1155065654,
+              "ymin": 4417133.008645932,
+              "xmax": 1135134.672630849,
+              "ymax": 4417287.674195374
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135035.3940687072,
+                "y": 4417210.341420653
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1682582321376": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1682582321376": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 10,
+            "name": "Restaurant Universitaire",
+            "title": "Géosignet-10",
+            "description": "Récupérez vos tickets restos au guichet en face du parking du Restaurant Universitaire ",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_23-snap10-1682583881206.jpg",
+              "originalName": "widget_23-snap10-1682583881206",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap10-1682583881206.jpg",
+              "type": "IMAGE",
+              "size": 84126,
+              "created": 1682583881208,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "SNAPSHOT",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134911.6499792153,
+              "ymin": 4417146.30620799,
+              "xmax": 1135110.207103499,
+              "ymax": 4417300.971757432
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135010.9285413572,
+                "y": 4417223.638982711
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1682583858510": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1682583858510": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 11,
+            "name": "Entrée Salle Chimie et Biologie",
+            "title": "Géosignet-11",
+            "description": "Accès aux salles et laboratoires de Chimie et Biologie",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_23-snap11-1682584400799.jpg",
+              "originalName": "widget_23-snap11-1682584400799",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap11-1682584400799.jpg",
+              "type": "IMAGE",
+              "size": 27094,
+              "created": 1682584400801,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "CUSTOM",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1135114.8576840367,
+              "ymin": 4417018.907955632,
+              "xmax": 1135313.4148083203,
+              "ymax": 4417173.573505074
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135214.1362461785,
+                "y": 4417096.240730353
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1682584399280": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1682584399280": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 12,
+            "name": "Infirmerie",
+            "title": "Géosignet-12",
+            "description": "Les premiers soins se font ici !",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_23-snap12-1683226009572.jpg",
+              "originalName": "widget_23-snap12-1683226009572",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap12-1683226009572.jpg",
+              "type": "IMAGE",
+              "size": 189217,
+              "created": 1683226009577,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "SNAPSHOT",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134923.2022189805,
+              "ymin": 4417405.27910873,
+              "xmax": 1135190.1346537317,
+              "ymax": 4417559.944658172
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135056.6684363561,
+                "y": 4417482.611883451
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons2_1006": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_7903": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points2_6274": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 13,
+            "name": "Ateliers et Laboratoires de Mecanique",
+            "title": "Géosignet-13",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_23-snap13-1683226043449.jpg",
+              "originalName": "widget_23-snap13-1683226043449",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap13-1683226043449.jpg",
+              "type": "IMAGE",
+              "size": 189264,
+              "created": 1683226043452,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "SNAPSHOT",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134923.2022189805,
+              "ymin": 4417405.27910873,
+              "xmax": 1135190.1346537317,
+              "ymax": 4417559.944658172
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135056.6684363561,
+                "y": 4417482.611883451
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons2_1006": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_7903": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points2_6274": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 14,
+            "name": "Ateliers Techno Mecanique",
+            "title": "Géosignet-14",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_23-snap14-1683226121825.jpg",
+              "originalName": "widget_23-snap14-1683226121825",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap14-1683226121825.jpg",
+              "type": "IMAGE",
+              "size": 194378,
+              "created": 1683226121828,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "SNAPSHOT",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134894.197097938,
+              "ymin": 4417360.918302139,
+              "xmax": 1135161.1295326892,
+              "ymax": 4417515.583851581
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135027.6633153136,
+                "y": 4417438.25107686
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons2_1006": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_7903": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points2_6274": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 15,
+            "name": "Club Aerobotics",
+            "title": "Géosignet-15",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_23-snap15-1683226143383.jpg",
+              "originalName": "widget_23-snap15-1683226143383",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap15-1683226143383.jpg",
+              "type": "IMAGE",
+              "size": 235052,
+              "created": 1683226143387,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "SNAPSHOT",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134951.7807980105,
+              "ymin": 4417336.391940563,
+              "xmax": 1135218.7132327617,
+              "ymax": 4417491.057490005
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135085.2470153861,
+                "y": 4417413.724715284
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons2_1006": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_7903": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points2_6274": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 16,
+            "name": "Club IEEE",
+            "title": "Géosignet-16",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_23-snap16-1683226182760.jpg",
+              "originalName": "widget_23-snap16-1683226182760",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap16-1683226182760.jpg",
+              "type": "IMAGE",
+              "size": 217646,
+              "created": 1683226182764,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "SNAPSHOT",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134955.6197034519,
+              "ymin": 4417295.87007586,
+              "xmax": 1135222.552138203,
+              "ymax": 4417450.535625302
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135089.0859208275,
+                "y": 4417373.202850581
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons2_1006": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_7903": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points2_6274": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 17,
+            "name": "Amphis A8-A1",
+            "title": "Géosignet-17",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_23-snap17-1683226202990.jpg",
+              "originalName": "widget_23-snap17-1683226202990",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap17-1683226202990.jpg",
+              "type": "IMAGE",
+              "size": 217646,
+              "created": 1683226202992,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "SNAPSHOT",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134955.6197034519,
+              "ymin": 4417295.87007586,
+              "xmax": 1135222.552138203,
+              "ymax": 4417450.535625302
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135089.0859208275,
+                "y": 4417373.202850581
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons2_1006": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_7903": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points2_6274": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          },
+          {
+            "id": 18,
+            "name": "Amphi EY",
+            "title": "Géosignet-18",
+            "type": "2d",
+            "imgParam": {},
+            "snapParam": {
+              "fileName": "widget_23-snap18-1683226261764.jpg",
+              "originalName": "widget_23-snap18-1683226261764",
+              "url": "${appResourceUrl}/images/widget_23/widget_23-snap18-1683226261764.jpg",
+              "type": "IMAGE",
+              "size": 225105,
+              "created": 1683226261769,
+              "resourcesPrefix": "images/widget_23",
+              "fileFormat": "image/png"
+            },
+            "imagePosition": "FILL",
+            "imgSourceType": "SNAPSHOT",
+            "extent": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "xmin": 1134991.876111589,
+              "ymin": 4417270.49060292,
+              "xmax": 1135258.80854634,
+              "ymax": 4417425.156152362
+            },
+            "viewpoint": {
+              "rotation": 0,
+              "scale": 1128.4971765,
+              "targetGeometry": {
+                "spatialReference": {
+                  "latestWkid": 3857,
+                  "wkid": 102100
+                },
+                "x": 1135125.3423289645,
+                "y": 4417347.823377641
+              }
+            },
+            "graphics": [],
+            "showFlag": true,
+            "mapViewId": "widget_23editor-dataSource_1",
+            "mapDataSourceId": "dataSource_1",
+            "layersConfig": {
+              "landcover_geojson_1541": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons_geojson_7412": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_geojson_5009": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points_geojson_3547": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_1823": {
+                "layers": {},
+                "visibility": true
+              },
+              "roads_geojson_7": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_polygons2_1006": {
+                "layers": {},
+                "visibility": true
+              },
+              "buildings_7903": {
+                "layers": {},
+                "visibility": true
+              },
+              "amenity_points2_6274": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              },
+              "jimu-draw-measurements-layer-widget_23editor-dataSource_1-1683225971515": {
+                "layers": {},
+                "visibility": true
+              }
+            }
+          }
+        ],
+        "initBookmark": false,
+        "runtimeAddAllow": false,
+        "autoPlayAllow": false,
+        "autoInterval": 3,
+        "autoLoopAllow": true,
+        "style": {
+          "id": "default"
+        },
+        "direction": "HORIZON",
+        "pageStyle": "SCROLL",
+        "space": 10,
+        "scrollBarOpen": true,
+        "navigatorOpen": false,
+        "transition": "None",
+        "transitionDirection": "H",
+        "displayType": "ALL",
+        "itemHeight": 240,
+        "itemWidth": 240,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "effect": {
+            "type": "None",
+            "option": {
+              "direction": "TOP",
+              "configType": "DEFAULT"
+            }
+          },
+          "oneByOneEffect": null,
+          "previewId": null
+        },
+        "displayFromWeb": false
+      },
+      "id": "widget_23",
+      "layouts": {},
+      "useMapWidgetIds": [
+        "widget_14"
+      ]
+    },
+    "widget_24": {
+      "uri": "widgets/common/text/",
+      "version": "1.11.0",
+      "label": "Texte 3",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 20px;\">Explorer les lieux cultes de L'INSAT</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        },
+        "tooltip": {
+          "name": "Lieux Cultes",
+          "parts": [
+            {
+              "type": "STRING",
+              "exp": "\"Lieux Cultes\""
+            }
+          ]
+        }
+      },
+      "id": "widget_24",
+      "style": {
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fill"
+        }
+      }
+    },
+    "widget_25": {
+      "uri": "widgets/common/image/",
+      "version": "1.11.0",
+      "label": "Image 2",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_25/1682531485053.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_25/1682531485053.jpg",
+            "fileName": "1682531485053.jpg",
+            "originalName": "1522255568.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1682531485053",
+            "isUseCompress": false,
+            "originalWidth": 720,
+            "originalHeight": 340
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_25"
+    },
+    "widget_26": {
+      "uri": "widgets/common/text/",
+      "version": "1.11.0",
+      "label": "Texte 4",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 60px; color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);\">Bienvenue !</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 20px; color: var(--dark); background-color: var(--light);\">Visite Guidée de la Carte Virtuelle de L'INSAT</strong></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_26",
+      "useDataSourcesEnabled": true
+    },
+    "widget_28": {
+      "uri": "widgets/common/image/",
+      "version": "1.11.0",
+      "label": "Image 3",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_28/1682854887348.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_28/1682854887348.jpg",
+            "fileName": "1682854887348.jpg",
+            "originalName": "central view.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1682854887348",
+            "isUseCompress": false,
+            "originalWidth": 1916,
+            "originalHeight": 975
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_28"
+    },
+    "widget_30": {
+      "uri": "widgets/common/text/",
+      "version": "1.11.0",
+      "label": "Texte 7",
+      "config": {
+        "text": "<p style=\"text-align: center;\">﻿   </p><p style=\"text-align: center;\"><strong style=\"font-size: 20px; color: var(--dark); background-color: var(--light);\">Ceci est le panneau central, où se trouve votre carte, cliquez sur les boutons pour voir toutes les options !</strong></p><p style=\"text-align: center;\"><br></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_30"
+    },
+    "widget_34": {
+      "uri": "widgets/common/image/",
+      "version": "1.11.0",
+      "label": "Image 5",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_34/1682855647456.png",
+            "originalUrl": "${appResourceUrl}/images/widget_34/1682855647456.png",
+            "fileName": "1682855647456.png",
+            "originalName": "Sans titre.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1682855647456",
+            "isUseCompress": false,
+            "originalWidth": 2278,
+            "originalHeight": 1178
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_34"
+    },
+    "widget_36": {
+      "uri": "widgets/common/text/",
+      "version": "1.11.0",
+      "label": "Texte 11",
+      "config": {
+        "text": "<p style=\"text-align: center;\">﻿     <strong style=\"font-size: 20px; color: var(--dark); background-color: var(--light);\">A gauche se trouve le panneau \"Explorer\", cliquez sur les images et vous serez redirigé(e) sur la carte !</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 20px; color: var(--dark); background-color: var(--light);\">Bonne Exploration !</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_36"
+    },
+    "widget_37": {
+      "uri": "widgets/common/image/",
+      "version": "1.11.0",
+      "label": "Image 6",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_37/1682856090503.png",
+            "originalUrl": "${appResourceUrl}/images/widget_37/1682856090503.png",
+            "fileName": "1682856090503.png",
+            "originalName": "Sans titre.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1682856090503",
+            "isUseCompress": false,
+            "originalWidth": 2278,
+            "originalHeight": 1178
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_37"
+    },
+    "widget_38": {
+      "uri": "widgets/common/text/",
+      "version": "1.11.0",
+      "label": "Texte 12",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"background-color: var(--light); color: var(--dark); font-size: 20px;\">En haut à droite, vous trouverez tous vos widgets. Vous pouvez imprimer, partager et voir les légendes de la carte</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_38"
+    },
+    "widget_41": {
+      "uri": "widgets/common/image/",
+      "version": "1.11.0",
+      "label": "Image 7",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M28 14c0 7.732-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0s14 6.268 14 14z",
+              "cropShape": "circle"
+            }
+          }
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_41"
+    },
+    "widget_42": {
+      "uri": "widgets/common/text/",
+      "version": "1.11.0",
+      "label": "Texte 13",
+      "config": {
+        "text": "",
+        "placeholder": "<p><strong style=\"font-size: 14px; color: var(--dark-800);\">Titre</strong></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_42"
+    },
+    "widget_43": {
+      "uri": "widgets/common/text/",
+      "version": "1.11.0",
+      "label": "Texte 14",
+      "config": {
+        "text": "",
+        "placeholder": "<p><span style=\"color: var(--dark-800);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_43"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {
+    "view_1": {
+      "id": "view_1",
+      "label": "Vue",
+      "layout": {
+        "LARGE": "layout_37",
+        "SMALL": "layout_38",
+        "MEDIUM": "layout_39"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "rgba(0,0,0,0)",
+      "backgroundIMage": {}
+    },
+    "view_2": {
+      "id": "view_2",
+      "label": "Vue 2",
+      "layout": {
+        "LARGE": "layout_40",
+        "SMALL": "layout_41",
+        "MEDIUM": "layout_42"
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "rgba(0,0,0,0)",
+      "backgroundIMage": {}
+    },
+    "view_4": {
+      "id": "view_4",
+      "layout": {
+        "LARGE": "layout_46",
+        "SMALL": "layout_47",
+        "MEDIUM": "layout_48"
+      },
+      "label": "Vue 4"
+    },
+    "view_5": {
+      "id": "view_5",
+      "layout": {
+        "LARGE": "layout_51",
+        "SMALL": "layout_52",
+        "MEDIUM": "layout_53"
+      },
+      "label": "Vue 5",
+      "lazyLoad": true
+    }
+  },
+  "sections": {
+    "section_1": {
+      "id": "section_1",
+      "views": [
+        "view_1",
+        "view_2",
+        "view_5",
+        "view_4"
+      ],
+      "dotsNav": {
+        "visible": true,
+        "offset": 20,
+        "spacing": 20
+      },
+      "autoPlay": true,
+      "label": "Section",
+      "interval": 2.5,
+      "arrowsNav": {
+        "visible": false
+      },
+      "transition": {
+        "type": "FADE"
+      }
+    }
+  },
+  "dialogs": {
+    "dialog_1": {
+      "id": "dialog_1",
+      "mode": "FIXED",
+      "sizeMode": {
+        "LARGE": {
+          "position": "CENTER",
+          "width": "723px",
+          "height": "447px"
+        },
+        "SMALL": {
+          "position": "CENTER",
+          "width": "90.0%",
+          "height": "600px"
+        },
+        "MEDIUM": {
+          "position": "CENTER",
+          "width": "90.0%",
+          "height": "600px"
+        }
+      },
+      "interactionType": "BUTTON_INLINE",
+      "interactionStyles": {
+        "text": "",
+        "textSize": "13px",
+        "buttonText": "",
+        "buttonTextSize": "16px"
+      },
+      "confirmBeforeClose": false,
+      "alwaysShowConfirmation": true,
+      "dialogBackground": {
+        "color": "var(--light)",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": "var(--dark-900)",
+      "layout": {
+        "LARGE": "layout_36",
+        "SMALL": "layout_49",
+        "MEDIUM": "layout_50"
+      },
+      "index": 0,
+      "isSplash": true,
+      "label": "Fenêtre",
+      "closeWhenClickOverlay": true,
+      "effect": {
+        "type": "FADE_IN",
+        "option": {
+          "direction": null
+        }
+      }
+    },
+    "dialog_2": {
+      "id": "dialog_2",
+      "mode": "ANCHORED",
+      "sizeMode": {
+        "LARGE": {
+          "position": null,
+          "width": "360px",
+          "height": "240px"
+        }
+      },
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false,
+      "dialogBackground": {
+        "color": "var(--light)",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": null,
+      "layout": {
+        "LARGE": "layout_54"
+      },
+      "index": 0,
+      "isSplash": false,
+      "closeWhenClickOverlay": true,
+      "effect": {
+        "type": "FADE_IN",
+        "option": {
+          "direction": null,
+          "configType": "DEFAULT"
+        }
+      },
+      "oneByOneEffect": {
+        "type": "NONE",
+        "option": {
+          "direction": null
+        }
+      },
+      "label": "Fenêtre 2"
+    }
+  },
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "insat",
+      "itemId": "21bbf6775060430a9a13e41da9e46708",
+      "portalUrl": "https://onw1L3Ccx1RiQT5V.maps.arcgis.com",
+      "childDataSourceJsons": {
+        "amenity_polygons_geojson_7412": {
+          "id": "dataSource_1-amenity_polygons_geojson_7412",
+          "sourceLabel": "amenity_polygons",
+          "type": "FEATURE_LAYER",
+          "geometryType": "esriGeometryPolygon",
+          "label": "Services",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "7efdbb6f4f754101bc8915104e590eb7"
+        },
+        "roads_geojson_7": {
+          "id": "dataSource_1-roads_geojson_7",
+          "sourceLabel": "Routes",
+          "type": "FEATURE_LAYER",
+          "geometryType": "esriGeometryPolyline",
+          "label": "Routes",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "5b5e5eccdc624882b9c5a238b23079de"
+        },
+        "roads_geojson_1823": {
+          "id": "dataSource_1-roads_geojson_1823",
+          "sourceLabel": "roads",
+          "type": "FEATURE_LAYER",
+          "geometryType": "esriGeometryPolyline",
+          "label": "Routes 1",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "1a04e42b835d435482c7270598893b50"
+        },
+        "amenity_points_geojson_3547": {
+          "id": "dataSource_1-amenity_points_geojson_3547",
+          "sourceLabel": "Lieux d'Interets",
+          "type": "FEATURE_LAYER",
+          "geometryType": "esriGeometryPoint",
+          "label": "Lieux d'Interets",
+          "dataViews": {
+            "no_selection": {
+              "id": "no_selection",
+              "label": "Vue en cas de sélection vide"
+            },
+            "dataView_1": {
+              "id": "dataView_1",
+              "label": "Vue des données 1",
+              "where": {
+                "logicalOperator": "AND",
+                "parts": [
+                  {
+                    "type": "SINGLE",
+                    "jimuFieldName": "amenity",
+                    "operator": "STRING_OPERATOR_IS",
+                    "valueOptions": {
+                      "isValid": true,
+                      "sourceType": "USER_INPUT",
+                      "inputEditor": "TEXT_BOX",
+                      "value": [
+                        {
+                          "value": "parking",
+                          "label": "parking"
+                        }
+                      ]
+                    },
+                    "displayType": "NONE",
+                    "askForValueOptions": null,
+                    "displayLabel": null,
+                    "caseSensitive": false
+                  }
+                ],
+                "sql": "((LOWER(amenity) = 'parking'))",
+                "displaySQL": "(amenity = 'parking')"
+              }
+            }
+          },
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "96df115710594e1bbc64fa73e07d6952"
+        },
+        "buildings_geojson_5009": {
+          "id": "dataSource_1-buildings_geojson_5009",
+          "sourceLabel": "buildings",
+          "type": "FEATURE_LAYER",
+          "geometryType": "esriGeometryPolygon",
+          "label": "Batiments",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "4ef94627fe054f7080a2ae4494b6c837"
+        },
+        "landcover_geojson_1541": {
+          "id": "dataSource_1-landcover_geojson_1541",
+          "sourceLabel": "landcover",
+          "type": "FEATURE_LAYER",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "3d48dbf520ff411f8c489d31463776e4",
+          "geometryType": "esriGeometryPolygon",
+          "label": "Revetement"
+        },
+        "amenity_points2_6274": {
+          "id": "dataSource_1-amenity_points2_6274",
+          "sourceLabel": "Lieux D'Interets",
+          "type": "FEATURE_LAYER",
+          "url": "https://services1.arcgis.com/Wk1qskh8KP6l70xV/arcgis/rest/services/amenity_points2/FeatureServer/0",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "7d559ca5e47549fb96a97860eebe5496",
+          "geometryType": "esriGeometryPoint",
+          "query": {
+            "id": "default",
+            "label": "Lieux D'Interets",
+            "where": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "name",
+                  "operator": "STRING_OPERATOR_IS_NOT_BLANK",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "USER_INPUT",
+                    "inputEditor": "BLANK_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "NONE",
+                  "askForValueOptions": null,
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "((name IS NOT NULL))",
+              "displaySQL": "(name IS NOT NULL)"
+            }
+          }
+        },
+        "buildings_7903": {
+          "id": "dataSource_1-buildings_7903",
+          "sourceLabel": "Batiments",
+          "type": "FEATURE_LAYER",
+          "url": "https://services1.arcgis.com/Wk1qskh8KP6l70xV/arcgis/rest/services/buildings/FeatureServer/0",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "29a2518f8e9342dc9b81a4391f91188c",
+          "geometryType": "esriGeometryPolygon"
+        },
+        "amenity_polygons2_1006": {
+          "id": "dataSource_1-amenity_polygons2_1006",
+          "sourceLabel": "Services",
+          "type": "FEATURE_LAYER",
+          "url": "https://services1.arcgis.com/Wk1qskh8KP6l70xV/arcgis/rest/services/amenity_polygons2/FeatureServer/0",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "4278a2ec46c841888e47db4a3099b275",
+          "geometryType": "esriGeometryPolygon"
+        }
+      },
+      "isHidden": false
+    },
+    "widget_21_output_stop": {
+      "id": "widget_21_output_stop",
+      "label": "Arrêts",
+      "type": "FEATURE_LAYER",
+      "isOutputFromWidget": true,
+      "geometryType": "esriGeometryPoint",
+      "schema": {
+        "idField": "ObjectID",
+        "fields": {
+          "ObjectID": {
+            "jimuName": "ObjectID",
+            "name": "ObjectID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "ObjectID",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            }
+          },
+          "ArrivalCurbApproach": {
+            "jimuName": "ArrivalCurbApproach",
+            "name": "ArrivalCurbApproach",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Arrival Curb Approach",
+            "format": null
+          },
+          "ArrivalTime": {
+            "jimuName": "ArrivalTime",
+            "name": "ArrivalTime",
+            "type": "DATE",
+            "esriType": "esriFieldTypeDate",
+            "alias": "Arrival Time",
+            "format": null
+          },
+          "ArrivalUTCOffset": {
+            "jimuName": "ArrivalUTCOffset",
+            "name": "ArrivalUTCOffset",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Arrival Time: Offset from UTC in Minutes",
+            "format": null
+          },
+          "CumulativeCosts": {
+            "jimuName": "CumulativeCosts",
+            "name": "CumulativeCosts",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Cumulative Costs",
+            "format": null
+          },
+          "CumulativeMeters": {
+            "jimuName": "CumulativeMeters",
+            "name": "CumulativeMeters",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Cumulative Meters",
+            "format": null
+          },
+          "CumulativeMinutes": {
+            "jimuName": "CumulativeMinutes",
+            "name": "CumulativeMinutes",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Cumulative Minutes",
+            "format": null
+          },
+          "CurbApproach": {
+            "jimuName": "CurbApproach",
+            "name": "CurbApproach",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Curb Approach",
+            "format": null
+          },
+          "DepartureCurbApproach": {
+            "jimuName": "DepartureCurbApproach",
+            "name": "DepartureCurbApproach",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Departure Curb Approach",
+            "format": null
+          },
+          "DepartureTime": {
+            "jimuName": "DepartureTime",
+            "name": "DepartureTime",
+            "type": "DATE",
+            "esriType": "esriFieldTypeDate",
+            "alias": "Departure Time",
+            "format": null
+          },
+          "DepartureUTCOffset": {
+            "jimuName": "DepartureUTCOffset",
+            "name": "DepartureUTCOffset",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Departure Time: Offset from UTC in Minutes",
+            "format": null
+          },
+          "LateMinutes": {
+            "jimuName": "LateMinutes",
+            "name": "LateMinutes",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Minutes Late",
+            "format": null
+          },
+          "LocationType": {
+            "jimuName": "LocationType",
+            "name": "LocationType",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Location Type",
+            "format": null
+          },
+          "Name": {
+            "jimuName": "Name",
+            "name": "Name",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Name",
+            "format": null
+          },
+          "RouteName": {
+            "jimuName": "RouteName",
+            "name": "RouteName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Route Name",
+            "format": null
+          },
+          "Sequence": {
+            "jimuName": "Sequence",
+            "name": "Sequence",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Sequence",
+            "format": null
+          },
+          "ServiceCosts": {
+            "jimuName": "ServiceCosts",
+            "name": "ServiceCosts",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Service Costs",
+            "format": null
+          },
+          "ServiceMeters": {
+            "jimuName": "ServiceMeters",
+            "name": "ServiceMeters",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Service Meters",
+            "format": null
+          },
+          "ServiceMinutes": {
+            "jimuName": "ServiceMinutes",
+            "name": "ServiceMinutes",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Service Minutes",
+            "format": null
+          },
+          "Status": {
+            "jimuName": "Status",
+            "name": "Status",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Status",
+            "format": null
+          },
+          "TimeWindowEnd": {
+            "jimuName": "TimeWindowEnd",
+            "name": "TimeWindowEnd",
+            "type": "DATE",
+            "esriType": "esriFieldTypeDate",
+            "alias": "Time Window End",
+            "format": null
+          },
+          "TimeWindowEndUTCOffset": {
+            "jimuName": "TimeWindowEndUTCOffset",
+            "name": "TimeWindowEndUTCOffset",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Time Window End: Offset from UTC in Minutes",
+            "format": null
+          },
+          "TimeWindowStart": {
+            "jimuName": "TimeWindowStart",
+            "name": "TimeWindowStart",
+            "type": "DATE",
+            "esriType": "esriFieldTypeDate",
+            "alias": "Time Window Start",
+            "format": null
+          },
+          "TimeWindowStartUTCOffset": {
+            "jimuName": "TimeWindowStartUTCOffset",
+            "name": "TimeWindowStartUTCOffset",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Time Window Start: Offset from UTC in Minutes",
+            "format": null
+          },
+          "WaitMinutes": {
+            "jimuName": "WaitMinutes",
+            "name": "WaitMinutes",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Minutes Early",
+            "format": null
+          }
+        }
+      }
+    },
+    "widget_21_output_direction_point": {
+      "id": "widget_21_output_direction_point",
+      "label": "Points de direction",
+      "type": "FEATURE_LAYER",
+      "isOutputFromWidget": true,
+      "geometryType": "esriGeometryPoint",
+      "schema": {
+        "idField": "ObjectID",
+        "fields": {
+          "ObjectID": {
+            "jimuName": "ObjectID",
+            "name": "ObjectID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "ObjectID",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            }
+          },
+          "AlternateName": {
+            "jimuName": "AlternateName",
+            "name": "AlternateName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Alternative Feature Name",
+            "format": null
+          },
+          "ArrivalTime": {
+            "jimuName": "ArrivalTime",
+            "name": "ArrivalTime",
+            "type": "DATE",
+            "esriType": "esriFieldTypeDate",
+            "alias": "Maneuver Starts at",
+            "format": null
+          },
+          "ArrivalUTCOffset": {
+            "jimuName": "ArrivalUTCOffset",
+            "name": "ArrivalUTCOffset",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Offset from UTC in Minutes",
+            "format": null
+          },
+          "Azimuth": {
+            "jimuName": "Azimuth",
+            "name": "Azimuth",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Azimuth",
+            "format": null
+          },
+          "BranchName": {
+            "jimuName": "BranchName",
+            "name": "BranchName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Signpost Branch Name",
+            "format": null
+          },
+          "DirectionPointType": {
+            "jimuName": "DirectionPointType",
+            "name": "DirectionPointType",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Directions Item Type",
+            "format": null
+          },
+          "DisplayText": {
+            "jimuName": "DisplayText",
+            "name": "DisplayText",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Text to Display",
+            "format": null
+          },
+          "ExitName": {
+            "jimuName": "ExitName",
+            "name": "ExitName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Highway Exit Name",
+            "format": null
+          },
+          "IntersectingName": {
+            "jimuName": "IntersectingName",
+            "name": "IntersectingName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Intersecting Feature Name",
+            "format": null
+          },
+          "Level": {
+            "jimuName": "Level",
+            "name": "Level",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "3D Logical Level",
+            "format": null
+          },
+          "Name": {
+            "jimuName": "Name",
+            "name": "Name",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Primary Feature Name",
+            "format": null
+          },
+          "Sequence": {
+            "jimuName": "Sequence",
+            "name": "Sequence",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Sequence",
+            "format": null
+          },
+          "ShortVoiceInstruction": {
+            "jimuName": "ShortVoiceInstruction",
+            "name": "ShortVoiceInstruction",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Voice Instruction",
+            "format": null
+          },
+          "StopID": {
+            "jimuName": "StopID",
+            "name": "StopID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Stop ID",
+            "format": null
+          },
+          "TowardName": {
+            "jimuName": "TowardName",
+            "name": "TowardName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Signpost Toward Name",
+            "format": null
+          },
+          "VoiceInstruction": {
+            "jimuName": "VoiceInstruction",
+            "name": "VoiceInstruction",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Voice Full Instruction",
+            "format": null
+          }
+        }
+      }
+    },
+    "widget_21_output_direction_line": {
+      "id": "widget_21_output_direction_line",
+      "label": "Lignes de direction",
+      "type": "FEATURE_LAYER",
+      "isOutputFromWidget": true,
+      "geometryType": "esriGeometryPolyline",
+      "schema": {
+        "idField": "ObjectID",
+        "fields": {
+          "ObjectID": {
+            "jimuName": "ObjectID",
+            "name": "ObjectID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "ObjectID",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            }
+          },
+          "DirectionLineType": {
+            "jimuName": "DirectionLineType",
+            "name": "DirectionLineType",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Line Type",
+            "format": null
+          },
+          "DirectionPointID": {
+            "jimuName": "DirectionPointID",
+            "name": "DirectionPointID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Direction Point ID",
+            "format": null
+          },
+          "FromLevel": {
+            "jimuName": "FromLevel",
+            "name": "FromLevel",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Start from 3D Level",
+            "format": null
+          },
+          "Meters": {
+            "jimuName": "Meters",
+            "name": "Meters",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Length in Meters",
+            "format": null
+          },
+          "Minutes": {
+            "jimuName": "Minutes",
+            "name": "Minutes",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Duration in Minutes",
+            "format": null
+          },
+          "ToLevel": {
+            "jimuName": "ToLevel",
+            "name": "ToLevel",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "End at 3D Level",
+            "format": null
+          }
+        }
+      }
+    },
+    "widget_21_output_route": {
+      "id": "widget_21_output_route",
+      "label": "Itinéraire",
+      "type": "FEATURE_LAYER",
+      "isOutputFromWidget": true,
+      "geometryType": "esriGeometryPolyline",
+      "schema": {
+        "idField": "ObjectID",
+        "fields": {
+          "ObjectID": {
+            "jimuName": "ObjectID",
+            "name": "ObjectID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "ObjectID",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            }
+          },
+          "AnalysisSettings": {
+            "jimuName": "AnalysisSettings",
+            "name": "AnalysisSettings",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Analysis Settings",
+            "format": null
+          },
+          "EndTime": {
+            "jimuName": "EndTime",
+            "name": "EndTime",
+            "type": "DATE",
+            "esriType": "esriFieldTypeDate",
+            "alias": "End Time",
+            "format": null
+          },
+          "EndUTCOffset": {
+            "jimuName": "EndUTCOffset",
+            "name": "EndUTCOffset",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "End Time: Offset from UTC in Minutes",
+            "format": null
+          },
+          "Messages": {
+            "jimuName": "Messages",
+            "name": "Messages",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Analysis Messages",
+            "format": null
+          },
+          "RouteName": {
+            "jimuName": "RouteName",
+            "name": "RouteName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Route Name",
+            "format": null
+          },
+          "StartTime": {
+            "jimuName": "StartTime",
+            "name": "StartTime",
+            "type": "DATE",
+            "esriType": "esriFieldTypeDate",
+            "alias": "Start Time",
+            "format": null
+          },
+          "StartUTCOffset": {
+            "jimuName": "StartUTCOffset",
+            "name": "StartUTCOffset",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Start Time: Offset from UTC in Minutes",
+            "format": null
+          },
+          "TotalCosts": {
+            "jimuName": "TotalCosts",
+            "name": "TotalCosts",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Total Costs",
+            "format": null
+          },
+          "TotalLateMinutes": {
+            "jimuName": "TotalLateMinutes",
+            "name": "TotalLateMinutes",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Total Late Minutes",
+            "format": null
+          },
+          "TotalMeters": {
+            "jimuName": "TotalMeters",
+            "name": "TotalMeters",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Total Meters",
+            "format": null
+          },
+          "TotalMinutes": {
+            "jimuName": "TotalMinutes",
+            "name": "TotalMinutes",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Total Minutes",
+            "format": null
+          },
+          "TotalWaitMinutes": {
+            "jimuName": "TotalWaitMinutes",
+            "name": "TotalWaitMinutes",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Total Wait Minutes",
+            "format": null
+          },
+          "Version": {
+            "jimuName": "Version",
+            "name": "Version",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Version",
+            "format": null
+          }
+        }
+      }
+    },
+    "dataSource_2": {
+      "id": "dataSource_2",
+      "type": "FEATURE_LAYER",
+      "layerId": "0",
+      "sourceLabel": "landcover",
+      "itemId": "3d48dbf520ff411f8c489d31463776e4",
+      "portalUrl": "https://onw1l3ccx1riqt5v.maps.arcgis.com",
+      "query": {
+        "id": "default",
+        "label": "landcover"
+      },
+      "dataViews": {
+        "dataView_1": {
+          "id": "dataView_1",
+          "label": "Vue des données 1",
+          "where": {
+            "logicalOperator": "AND",
+            "parts": [
+              {
+                "type": "SINGLE",
+                "jimuFieldName": "name",
+                "operator": "STRING_OPERATOR_IS_NOT_BLANK",
+                "valueOptions": {
+                  "isValid": true,
+                  "sourceType": "USER_INPUT",
+                  "inputEditor": "BLANK_SELECTOR",
+                  "value": null
+                },
+                "displayType": "NONE",
+                "askForValueOptions": null,
+                "displayLabel": null,
+                "caseSensitive": false
+              }
+            ],
+            "sql": "((name IS NOT NULL))",
+            "displaySQL": "(name IS NOT NULL)"
+          }
+        },
+        "no_selection": {
+          "id": "no_selection",
+          "label": "Vue en cas de sélection vide"
+        }
+      }
+    },
+    "dataSource_3": {
+      "id": "dataSource_3",
+      "type": "FEATURE_LAYER",
+      "layerId": "0",
+      "sourceLabel": "Routes",
+      "itemId": "5b5e5eccdc624882b9c5a238b23079de",
+      "portalUrl": "https://onw1l3ccx1riqt5v.maps.arcgis.com"
+    },
+    "dataSource_4": {
+      "id": "dataSource_4",
+      "type": "FEATURE_LAYER",
+      "layerId": "0",
+      "sourceLabel": "Routes Exterieures",
+      "itemId": "1a04e42b835d435482c7270598893b50",
+      "portalUrl": "https://onw1l3ccx1riqt5v.maps.arcgis.com"
+    },
+    "dataSource_5": {
+      "id": "dataSource_5",
+      "type": "FEATURE_LAYER",
+      "layerId": "0",
+      "sourceLabel": "Lieux d'Interets",
+      "itemId": "96df115710594e1bbc64fa73e07d6952",
+      "portalUrl": "https://onw1l3ccx1riqt5v.maps.arcgis.com",
+      "query": {
+        "id": "default",
+        "label": "Lieux d'Interets",
+        "where": {
+          "logicalOperator": "AND",
+          "parts": [
+            {
+              "type": "SINGLE",
+              "jimuFieldName": "name",
+              "operator": "STRING_OPERATOR_IS_NOT_BLANK",
+              "valueOptions": {
+                "isValid": true,
+                "sourceType": "USER_INPUT",
+                "inputEditor": "BLANK_SELECTOR",
+                "value": null
+              },
+              "displayType": "NONE",
+              "askForValueOptions": null,
+              "displayLabel": null,
+              "caseSensitive": false
+            }
+          ],
+          "sql": "((name IS NOT NULL))",
+          "displaySQL": "(name IS NOT NULL)"
+        }
+      }
+    },
+    "dataSource_6": {
+      "id": "dataSource_6",
+      "type": "FEATURE_LAYER",
+      "layerId": "0",
+      "sourceLabel": "buildings",
+      "itemId": "4ef94627fe054f7080a2ae4494b6c837",
+      "portalUrl": "https://onw1l3ccx1riqt5v.maps.arcgis.com"
+    },
+    "dataSource_7": {
+      "id": "dataSource_7",
+      "type": "FEATURE_LAYER",
+      "layerId": "0",
+      "sourceLabel": "Services",
+      "itemId": "7efdbb6f4f754101bc8915104e590eb7",
+      "portalUrl": "https://onw1l3ccx1riqt5v.maps.arcgis.com"
+    },
+    "dataSource_8": {
+      "id": "dataSource_8",
+      "type": "FEATURE_LAYER",
+      "layerId": "0",
+      "sourceLabel": "landcover",
+      "itemId": "3d48dbf520ff411f8c489d31463776e4",
+      "portalUrl": "https://onw1l3ccx1riqt5v.maps.arcgis.com"
+    },
+    "dataSource_9": {
+      "id": "dataSource_9",
+      "type": "WEB_MAP",
+      "sourceLabel": "insat",
+      "itemId": "21bbf6775060430a9a13e41da9e46708",
+      "portalUrl": "https://onw1l3ccx1riqt5v.maps.arcgis.com"
+    }
+  },
+  "messageConfigs": {
+    "messageConfig_1": {
+      "id": "messageConfig_1",
+      "widgetId": "widget_14",
+      "messageType": "EXTENT_CHANGE",
+      "actions": []
+    },
+    "messageConfig_2": {
+      "id": "messageConfig_2",
+      "widgetId": "widget_15",
+      "messageType": "DATA_RECORD_SET_CHANGE",
+      "actions": []
+    },
+    "messageConfig_3": {
+      "id": "messageConfig_3",
+      "widgetId": "widget_15",
+      "messageType": "DATA_SOURCE_FILTER_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_14-zoomToFeature-1682527273155",
+          "widgetId": "widget_14",
+          "messageWidgetId": "widget_15",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-roads_geojson_7",
+              "mainDataSourceId": "dataSource_1-roads_geojson_7",
+              "rootDataSourceId": "dataSource_1"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_1-roads_geojson_7",
+                "mainDataSourceId": "dataSource_1-roads_geojson_7",
+                "rootDataSourceId": "dataSource_1"
+              }
+            ]
+          },
+          "version": "1.11.0",
+          "useDataSources": []
+        }
+      ]
+    }
+  },
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "timestamp": 1683231356239,
+  "header": {
+    "layout": {
+      "LARGE": "layout_12"
+    },
+    "height": {
+      "LARGE": 75
+    }
+  },
+  "originExbVersion": "1.11.0",
+  "attributes": {
+    "portalUrl": "https://onw1l3ccx1riqt5v.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "c33cdab7e90845d8ad59362bed8392cb",
+    "title": "Carte Insat",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": "thumbnail/thumbnail1682432536752.png"
+  },
+  "sharedThemeVariables": null,
+  "customTheme": {},
+  "utilities": {
+    "utility_1": {
+      "id": "utility_1",
+      "type": null,
+      "name": "route",
+      "url": "https://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World",
+      "source": "org"
+    },
+    "utility_2": {
+      "id": "utility_2",
+      "type": null,
+      "name": "geocode",
+      "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+      "source": "org",
+      "orgSetting": {
+        "name": "ArcGIS World Geocoding Service",
+        "placefinding": true,
+        "batch": true
+      },
+      "taskName": "ArcGIS World Geocoding Service",
+      "index": 0
+    },
+    "utility_3": {
+      "id": "utility_3",
+      "type": null,
+      "name": "printTask",
+      "url": "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+      "source": "org",
+      "orgSetting": {}
+    }
+  },
+  "footer": {
+    "layout": {
+      "LARGE": "layout_35"
+    },
+    "height": {
+      "LARGE": 75
+    }
+  }
+  
+}
